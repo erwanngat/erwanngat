@@ -31,4 +31,4 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwanngat&layout=compact&theme=dark" alt=erwanngat />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erwanngat&theme=" alt="erwanngat" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=erwanngat&theme=dark" alt="erwanngat" /></p>
