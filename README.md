@@ -12,8 +12,8 @@
 <a href="https://github.com/erwanngat" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:erwann.gatinel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<p align="left">
-<a href="https://linkedin.com/in/erwann-gatinel-8b677824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="erwann-gatinel-8b677824b" height="30" width="40" /></a></p>
+<!-- <p align="left">
+<a href="https://linkedin.com/in/erwann-gatinel-8b677824b" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="erwann-gatinel-8b677824b" height="30" width="40" /></a></p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
