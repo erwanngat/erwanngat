@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwanngat&label=Profile%20views&color=0e75b6&style=flat" alt="erwanngat" /> </p>
 
 
-- 🌱 I’m currently learning **Larval** and **React**
+- 🌱 I’m currently learning **Laravel** and **React**
 
 - 📫 How to reach me **erwann.gatinel@gmail.com**
 <div> <a href="https://www.linkedin.com/in/erwann-gatinel-8b677824b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
